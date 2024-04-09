@@ -1,0 +1,5 @@
+*
+!.gitignore
+!nodes.py
+!signal.py
+!*.signl

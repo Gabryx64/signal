@@ -1,0 +1,9 @@
+                  10 x: 99
+((99 - x) * 30 + 20) ?: x + ' bottles of beer on the wall, ' + x + ' bottles of beer!'
+((99 - x) * 30 + 30) ?: 'Take one down, pass it around. ' + (x - 1) + ' bottles of beer on the wall!'
+((99 - x) * 30 + 40) x: :x - 1
+                2960 ?: '1 bottle of beer on the wall, 1 bottle of beer!'
+                2970 ?: 'Take one down, pass it around. No more bottles of beer on the wall!'
+                2980 ?: 'No more bottles of beer on the wall, no more bottles of beer.'
+                2990 ?: 'Go to the store and buy some more, 99 bottles of beer on the wall...'
+                3000 &: 0
