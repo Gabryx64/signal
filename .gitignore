@@ -3,3 +3,5 @@
 !nodes.py
 !signal.py
 !*.signl
+!README.md
+|LICENSE
